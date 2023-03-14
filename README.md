@@ -48,7 +48,7 @@ You can build an animated chart of the US yield curve to form a view of the macr
 
 ---
 
-## Build the animated chart
+## Build the animated chart  
 
 Animated charts offer a great way to visualize how data changes through time. 
 
